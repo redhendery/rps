@@ -1,5 +1,3 @@
-// let playerWin = 0
-// let computerWin = 0
 const choices = ['rock', 'paper', 'scissors']
 
 function computerPlay(choices) {
